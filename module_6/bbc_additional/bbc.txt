@@ -1,0 +1,30 @@
+bbc/business/1.txt	https://www.bbc.com/news/articles/cx20yw9e8yqo
+bbc/business/2.txt	https://www.bbc.com/news/articles/ckgzjn7m0vvo
+bbc/business/3.txt	https://www.bbc.com/news/articles/c3e4d8epdzdo
+bbc/business/4.txt	https://www.bbc.com/news/articles/cm2y8222ye4o
+bbc/business/5.txt	https://www.bbc.com/news/articles/cx2r3md0j84o
+
+bbs/entertainment/1.txt	https://www.bbc.com/news/articles/c4gp6ljnq23o
+bbs/entertainment/2.txt	https://www.bbc.com/news/articles/c0mwp3yp972o
+bbs/entertainment/3.txt	https://www.bbc.com/news/articles/c6253d37ylvo
+bbs/entertainment/4.txt	https://www.bbc.com/news/articles/cly41ww6e2do
+bbs/entertainment/5.txt	https://www.bbc.com/news/videos/cg4kvg02w7ko
+
+bbs/politics/1.txt	https://www.bbc.com/news/articles/c70w17dj258o
+bbs/politics/2.txt	https://www.bbc.com/news/articles/cvg5j74ld9lo
+bbs/politics/3.txt	https://www.bbc.com/news/articles/c4g0pp3mz1wo
+bbs/politics/4.txt	https://www.bbc.com/news/articles/cm2y82rk4kpo
+bbs/politics/5.txt	https://www.bbc.com/news/articles/cly6gz9j3rno
+
+
+bbs/sport/1.txt	https://www.bbc.com/sport/cricket/articles/cvgpjr7v5zmo
+bbs/sport/2.txt	https://www.bbc.com/sport/football/articles/cgm14y04g04o
+bbs/sport/3.txt	https://www.bbc.com/sport/horse-racing/articles/c4gdr979k5po
+bbs/sport/4.txt	https://www.bbc.com/sport/formula1/articles/ce8mr3rvyd5o
+bbs/sport/5.txt	https://www.bbc.com/sport/rugby-union/articles/cge1z2y0pg2o
+
+bbs/tech/1.txt	https://www.bbc.com/news/articles/c5yrjkl7dd6o
+bbs/tech/2.txt	https://www.bbc.com/news/articles/cz61yxv6evjo
+bbs/tech/3.txt	https://www.bbc.com/news/articles/ckgnvyggye1o
+bbs/tech/4.txt	https://www.bbc.com/news/articles/cdjy8x9w9zzo
+bbs/tech/5.txt	https://www.bbc.com/news/articles/czdnv6le71eo
