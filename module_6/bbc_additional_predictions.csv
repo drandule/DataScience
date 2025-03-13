@@ -1,0 +1,365 @@
+filename,text,true_label,predicted_label,confidence
+1.txt,"Launched in 2022, the Grenadier was the first vehicle produced by Ineos Automotive. It is inspired by the iconic Land Rover Defender.
+
+Sir Jim's decision to start the car company was motivated by his disappointment over Jaguar Land Rover's decision to stop making the Defender.
+
+In 2020, the entrepreneur, who had campaigned for Leave in the run-up to the 2016 Brexit referendum, announced that the vehicle would be assembled in France, putting an end to hopes that it would be made at a plant in Wales.
+
+According to the company, there are currently about 20,000 Grenadiers on the road in 50 countries around the world.
+
+Ineos Automotive lost more than 1.4 billion euros (Â£1.1bn, $1.5bn) before tax in 2023, according to a filing with the UK registry Companies House.
+
+Sir Jim, who is one of the UK's richest people, owns a 27.7% stake in Manchester United.
+",business,business,0.4761768675115425
+2.txt,"Tariffs on goods being imported into the US could tip Europe's largest economy into another recession, according to the president of Germany's central bank.
+
+Germany's economy has contracted for the past two years and with tariffs, the country ""could expect a recession for this year"" too, Joachim Nagel, the head of the Deutsche Bundesbank, told the BBC World Service in an exclusive interview.
+
+Without tariffs, the bank forecasts the German economy will stagnate but still grow, by about 0.2%, he added.
+
+He said ""there are only losers"" when imposing tariffs, and supported the EU's retaliatory measures against US President Donald Trump's 25% tariff on all steel imports from overseas.
+",business,business,0.6793776326482188
+3.txt,"US President Donald Trump has pledged to impose more tariffs after his latest move to introduce import taxes on steel and aluminium entering the US prompted retaliation from the European Union (EU) and Canada.
+
+Trump said that ""of course"" he would respond to the countermeasures, repeating his warning to reveal ""reciprocal"" tariffs next month on countries around the world.
+
+""Whatever they charge us with, we're charging them,"" he said.
+
+The threat marked a further escalation of a trade war which has rattled financial markets amid concerns over the impact on the economies and consumers in many countries around the world, including the US.
+On Wednesday, Trump moved forward with a plan to widen US tariffs on steel and aluminium, imposing a blanket duty of 25% and ending exemptions that the US had previously granted for shipments from some countries.
+
+That followed an order earlier this month that raised levies on Chinese imports into the US to at least 20%.
+
+Trump has also threatened tariffs - which are taxes applied to goods as they enter a country - on a range of more specific items, including copper, lumber and cars.
+
+Leaders in Canada and Europe called the new metals taxes unjustified and struck back with their own tariffs on a range of US products.
+
+Other countries that are key US suppliers of metals, including the UK, Australia, Mexico and Brazil, held off on any immediate retaliation.
+
+""Like everybody else, I'm disappointed to see global tariffs in relation to steel and aluminium but we will take a pragmatic approach,"" said UK Prime Minister Sir Keir Starmer.
+
+""We are...negotiating a deal which covers and includes tariffs if we succeed. But we will keep all options on the table.""
+",business,business,0.5107566972033835
+4.txt,"In Brussels, it was just after 06:00 on Wednesday. But it was midnight in Washington DC when President Donald Trump's 25% tariffs on steel and aluminium took effect on major US trading partners.
+
+It took less than 10 minutes for the European Union to respond.
+
+""Tariffs are taxes. They are bad for business, and worse for consumers,"" said European Commission President Ursula von der Leyen.
+
+The EU's initial countermeasures will take effect on US products on 1 April, ranging from jeans and motorbikes to peanut butter and bourbon, just as they were with the Trump administration's first tariffs in 2018 and 2020.
+But there will be more to come in mid-April. A whole swathe of textiles, home appliances, food and agricultural products could be included, depending on a two-week consultation with stakeholders.
+
+A list of items almost 100 pages long is being circulated that features meat, dairy, fruit, wine and spirits, toilet seats, wood, coats, swimwear, nightdresses, shoes, chandeliers and lawnmowers.
+
+For consumers, higher prices loom on Europe's supermarket shelves, especially for American products. But for businesses and some industries, especially steel, there is real danger.
+
+The head of Germany's BGA federation of wholesale, foreign trade and service, Dirk Jandura, warned that Germans might have to dig deeper into their pockets to pay for American products in the supermarkets.
+
+Orange juice, bourbon and peanut butter were the most likely products to be hit. ""Margins in trade are so low that this cannot be absorbed by the companies,"" he said.
+
+In total, the EU will target â¬26bn (Â£22bn) of US exports.
+
+""We're not going to go into hypotheticals other than to say we've been preparing assiduously for all these outcomes,"" said EU spokesman Olof Gill.
+",business,business,0.6041705004767192
+5.txt,"Prime Minister Sir Keir Starmer has said the UK will ""keep all options on the table"" as US President Donald Trump's tariffs on imports of steel and aluminium take effect.
+
+The UK exports hundreds of millions of pounds worth of steel to the US every year, which will be subject to the 25% levy.
+
+The EU, facing the same tariffs, said on Wednesday it would impose counter-tariffs on â¬26bn (Â£22bn) of US goods, and Canada also responded with countermeasures, in an escalation of the wider trade war.
+
+Sir Keir said the UK was taking a ""pragmatic"" approach and was pushing for a trade deal, but opposition politicians called for a more ""robust"" response.
+When Sir Keir visited the White House last month, trade was high on the agenda, with the PM seeking a trade deal and exemptions to Trump's tariffs.
+
+Asked at the time if the prime minister had convinced him not to impose trade tariffs on the UK, Trump said ""he tried"", adding: ""He was working hard, I'll tell you that. He earned whatever the hell they pay him over there.""
+
+It is understood tariffs were also discussed during a phone call between Sir Keir and Trump on Monday.
+
+However, as the latest tariffs came into effect, there were no exemptions for any country.
+
+European Union (EU) President Ursula von der Leyen said the EU's retaliatory tariffs were ""strong but proportionate"" and that the EU remains ""open to negotiations"".
+
+The EU tariffs will be imposed on ""products ranging from boats to bourbon to motorbikes,"" the EU said. They will be partially introduced on 1 April and fully in place on 13 April.
+
+
+",business,business,0.4307830500934897
+1.txt,"The wedding scene from the Gavin and Stacey finale, Strictly winner Chris McCausland's blackout dance and the moment Polin (aka Penelope and Colin) got together in Bridgerton have been named among the best TV moments of 2024 by the Bafta Awards.
+
+They are three of the six small-screen highlights to have been nominated for the ""memorable moment"" prize at this year's Bafta TV Awards.
+
+The others are naked tennis in Jilly Cooper's Rivals; Diane revealing Ross is her son on The Traitors; and a subpostmistress getting a shock about her predicament in Mr Bates vs the Post Office.
+
+The memorable moment is the only Bafta TV Award to have its winner chosen by members of the public, and the vote is open until 25 April.
+Hilary Rosen, chair of Bafta's television committee, said: ""The list includes heart-warming and heart-stopping surprises that got us all talking, and speaks to the power of great television to have real and lasting impact.""
+",entertainment,entertainment,0.5483074627176149
+2.txt,"Claims against actor Nicolas Cage have been dismissed from a civil lawsuit that was recently filed by his ex-girlfriend over an alleged assault by their son.
+
+Christina Fulton sued 34-year-old Weston Cage for assault and battery last month, and accused Cage of negligence, claiming the star had failed to prevent their son's alleged behaviour.
+
+However, the claims against the Oscar winner have now been removed from the lawsuit, according to US media.
+
+When the action was filed in February, the actor's lawyers called them ""frivolous"", saying: ""Mr Cage does not control Weston's behaviour in any manner and is not responsible for Weston's alleged assault of his mother.""
+",entertainment,entertainment,0.3667930417017596
+3.txt,"James Finlayson failed to make it as a leading man in Hollywood but became one of the most memorable comic foils ever to grace the silver screen.
+
+The Scottish actor performed in more than 100 films but was best known for being the ""third man"" to Laurel and Hardy.
+
+With his distinctive fake moustache, he starred with the iconic duo in 33 of their films and later became the inspiration for Homer Simpson's ""D'oh!"" catchphrase.
+
+Now Finlayson has been memorialised with a new portrait in the Scottish theatre where he first trod the boards more than a century ago. 
+Dobbie Hall in his hometown of Larbert, Stirling, commissioned the oil painting to celebrate the actor's career and rise to international fame in the early days of cinema.
+
+The portrait by young artist Connor Draycott was unveiled by Finlayson's family.
+
+They were joined by fans of the black and white movies and ""talkies"" from the UK chapters of Sons of the Desert, named after the fictional lodge that Laurel and Hardy belonged to in the 1933 film of the same name. 
+",entertainment,entertainment,0.729958765548212
+4.txt,"British rapper and internet personality Yung Filly has pleaded not guilty to multiple sexual assault charges in Western Australia.
+
+The star, whose real name is Andres Felipe Valencia Barrientos, appeared before Perth Magistrates Court on Tuesday.
+
+Court documents revealed he pleaded not guilty to three counts of assault occasioning bodily harm, one of strangulation and four counts of sexual penetration without consent.
+
+He will appear before the state's higher district court on 13 June.
+
+The rapper and YouTuber has been on bail since October 2024 after allegedly sexually assaulting a woman aged in her 20s in his hotel room after he performed at a venue in Hillarys, a coastal suburb of Perth.
+
+The attack is alleged to have taken place on Saturday 28 September.
+
+He is best known for his work with the YouTube collective Beta Squad and has presented shows on BBC Three.
+
+Barrientos was in Australia touring his music at the time of the alleged offences.
+
+He has also appeared in the UK on Soccer Aid on ITV and The Great Celebrity Bake Off for Stand Up To Cancer on Channel 4.
+
+He also won a Mobo Award for best media personality in 2021.
+",entertainment,entertainment,0.5753408702722438
+5.txt,"From wedding videos to four Oscars: Anora director speaks to the BBC
+
+Sean Baker said he was ""over the moon"" at the Vanity Fair party following his Oscar wins.
+
+As the first person to win four Oscars for one film, including Best Director, Baker is the man of the moment.
+
+He showered praise on Mikey Madison, the star of the film, who took home the Best Actress award, beating other front-runner Demi Moore.
+
+""Mikey's win is so important to me. It's something that I was really hoping for,"" he says. ""I'm so happy that the industry and the academy are recognising her incredible talent.""
+",entertainment,entertainment,0.8314805273506151
+1.txt,"NHS England will be abolished and brought under ""democratic control"" in an attempt to cut bureaucracy and duplication, Sir Keir Starmer has announced.
+The prime minister said the move would free up money for front-line services.
+The government said it expected around 50% of the jobs at NHS England, which as of December had 14,400 staff, and the Department of Health, which has 3,500 staff, to go.
+In a speech in Hull, Sir Keir said for too long politicians had ""chosen to hide behind vast arrays of quangos"" - organisations funded by taxpayers but not directly controlled by the government.
+The government said work would begin immediately to return many of NHS England's current functions to the Department of Health and Social Care, with the aim of completing the process in two years.
+The significant move gives the government more control and accountability over one of their key pledges - to cut NHS waiting times.
+NHS England - which the government dubbed ""the world's largest quango"" - oversees the health service, working with government to agree funding and priorities, as well as monitoring the performance of local NHS services.
+It was given autonomy by the then-Conservative Health Secretary Andrew Lansley in 2012, with the aim of freeing the organisation from interference by politicians.
+",politics,politics,0.5881674133348607
+2.txt,"Scotland's former First Minister Nicola Sturgeon is to stand down as an MSP, she has announced.
+The ex-SNP leader confirmed she would not seek re-election at the Holyrood election in May next year.
+After announcing her decision on social media, she told BBC Scotland News her time in parliament had been a ""privilege beyond words"".
+She added: ""But the time is right for me at this stage in my life to close the book on that chapter and open a new one.""
+Sturgeon resigned as first minister in March 2023 after eight years in the role.
+She is Scotland's longest-serving first minister and the first woman to hold the position.
+Her resignation as party leader marked the beginning of a tumultuous period for her and the SNP.
+In June 2023 she was arrested and released without charge as part of a police investigation into SNP finances. She insists she has done nothing wrong.
+Her husband Peter Murrell, who had long served as the SNP's chief executive, has since been charged with embezzling SNP funds.
+In January, Sturgeon announced that the pair had decided to end their marriage.
+The Glasgow Southside MSP is one of the original MSPs elected in 1999.
+",politics,politics,0.49924500908742375
+3.txt,"Treasury advisers tasked with finding government waste have identified spending on accommodation for people such as asylum seekers as their top priority.
+The Office for Value for Money (OVfM), which has 15 members of staff and reports directly to the chancellor, was launched in October.
+But a Treasury response to a BBC Freedom of Information request revealed that as of last month the team had not started scrutinising any investment proposals.
+Government documents released on Tuesday showed the first two areas it will investigate are government spending on short-term accommodation and multi-billion pound so-called ""mega projects"" such as HS2.
+The OVfM is aiming to cut departmental spending by Â£4bn annually starting this year.
+Labour previously said the ""hit team"" would ensure that ""every penny of taxpayers' money is spent wisely"".
+Concerns have been raised by both Conservative and Labour ministers in recent years about how much public money goes on short-term accommodation costs.
+The Treasury says the Home Office spent Â£2.3bn on hotels for asylum seekers in 2022-23.
+Further government money was spent on accommodation for veterans, care leavers, survivors of domestic abuse, victims of modern slavery and those fleeing war.
+The Institute for Public Policy Research think tank reported in 2024 that per asylum seeker, costs had increased by 141% to Â£41,000 last year - up from Â£17,000 in 2019-20.
+Some in government question whether departments signing separate accommodation contracts get the best value.
+The Local Government Association (LGA), which represents councils in England, has said that ""uncoordinated"" procurement of accommodation has ""driven up local accommodation costs"".
+",politics,politics,0.5841885561225254
+4.txt,"Sir Keir Starmer has pledged to slash the costs of regulation with an ""active government"".
+In a speech, he said politicians had chosen to hide behind quangos, and he took aim at a ""cottage industry of checkers and blockers slowing down delivery for working people"".
+But the key announcement was the abolition of the ""world's largest quango"", NHS England, which works with the government to agree funding and priorities, and oversees the delivery of services.
+He announced the government was bringing its functions back into the Department of Health.
+Incoming governments have often sought to cut the number of quangos - but what are they and what do they do?
+Quango stands for Quasi-Autonomous Non-Governmental Organisation, but the government calls them ""arm's length bodies"". They are organisations such as regulators, cultural institutions and advisory bodies, which are funded by taxpayers but not directly controlled from Whitehall.
+They range from huge organisations like NHS England, to smaller ones like the Gambling Commission and the British Film Institute.
+The number of quangos has fallen by more than half since 2010 but there are still more than 300 across the UK.
+Under the Conservative-Liberal Democrat coalition, nearly 300 were axed - dubbed the ""bonfire of the quangos"" - in an attempt to improve accountability and cut costs.
+Despite Sir Keir indicating he would also like to reduce the role of quangos, the new Labour government has set up more than 20 since winning power.
+These include Great British Energy, which will invest in renewable energy to help meet the government's clean power goals, and Skills England, which aims to support people in finding jobs.
+Asked earlier this week if the government was planning another ""bonfire of the quangos"", Downing Street said the PM wanted to see a more ""active and agile state"", rather than ""outsourcing"" decisions to other bodies.
+",politics,politics,0.5203410319109953
+5.txt,"The requirement for a High Court judge to approve assisted dying applications has been dropped by the committee considering the bill.
+The clause had been heralded by the bill's supporters as a safeguard that made it the strictest such legislation in the world.
+But the Ministry of Justice and senior judges raised concerns about the impact on the courts.
+Labour MP Kim Leadbeater, who is bringing the bill, suggested replacing the role of High Court judges with a three-person panel featuring a senior legal figure, a psychiatrist and a social worker to review applications.
+The committee is expected to insert those details at a later stage.
+After the bill committee voted 15 to seven in favour of dropping the High Court judge's role, Leadbeater said the change would make the law ""even more robust"".
+""And it is much safer than the current ban on assisted dying, which leaves terminally ill people and their families without any such protections at all,"" she said.
+""I have been encouraged that in the course of this debate there have been positive responses to the proposal for a commissioner and a multi-disciplinary panel from colleagues across the committee, regardless of how they voted at [its] second reading.
+""That tells me that whatever our views on the Bill itself, there is a shared commitment to getting protections for terminally ill adults right. That means we are doing our job.""
+However a group of 26 of her fellow Labour MPs warned that scrapping the High Court's oversight ""breaks the promises made by proponents of the bill, fundamentally weakens the protections for the vulnerable and shows just how haphazard this whole process has become"".
+In a statement, the group - made up of MPs who voted against the bill at second reading - said: ""It does not increase judicial safeguards but instead creates an unaccountable quango and to claim otherwise misrepresents what is being proposed.""
+",politics,politics,0.4417517322102363
+1.txt,"Fast bowler Mark Wood is likely to miss all of England's home Tests this summer after having surgery on a left knee injury.
+
+The 35-year-old has been ruled out until the end of July, roughly around when the five-Test series against India is due to finish.
+
+It means the next time Wood could play Test cricket is on the Ashes tour of Australia in November.
+
+The injury to the Durham man is a huge blow to England in a year of two marquee Test series.
+
+Head coach Brendon McCullum and Test captain Ben Stokes have a fondness for high pace and have now lost their fastest bowler for the home summer, with questions over whether Wood can return to face Australia.
+
+With Wood arguably England's first-choice seamer in Test cricket, this injury casts further doubt on the wisdom of playing him at the Champions Trophy.
+
+Jofra Archer has not played Test cricket since 2021 and is working his way back to full fitness in white-ball cricket, while Brydon Carse suffered foot problems at the Champions Trophy that subsequently ruled him out of the Indian Premier League. Josh Tongue is only just returning from a lay-off of well over a year.
+
+An England statement said Wood had been ""managing an ongoing issue"" for more than a year, but he ""experienced increased stiffness and discomfort"" during the Champions Trophy.
+
+Wood struggled with the injury during the defeat by Afghanistan, then missed the final game against South Africa.
+
+The Champions Trophy and tour of India that preceded it was Wood's return from an elbow injury that had kept him out of action since August of last year.
+
+""I'm gutted to be out for so long after representing England across all formats since the start of last year,"" said Wood. ""But I've got every confidence that I'll be back firing on all cylinders now that I've been able to sort my knee out.
+
+""I want to thank the surgeon, the doctors, staff, my England teammates and coaches for their support - and, of course, our fans. I can't wait to get back and contribute to what is going to be a huge 2025 for us as a team.""
+
+England play a one-off Test against Zimbabwe in May before the series against India begins in late June.
+",sport,sport,0.8252571488003679
+2.txt,"Julian Alvarez slipped as he struck the penalty, but the ball flew into the top-left corner.
+
+It looked like it was 2-2 in the Champions League last-16 shootout between derby rivals Atletico and Real Madrid.
+
+What happened next was another one of those fine-margin VAR calls - but for a very unusual reason.
+
+On review, Atletico's Alvarez was judged to have touched the ball twice.
+
+That is against the rules so it was chalked off - with no option for a retake.
+
+UK users can watch a video of the incident at the top of this page and see if they can spot the second touch.
+
+Real then went 3-1 ahead before winning the shootout 4-2. All the talk afterward was about that decision.
+",sport,sport,0.5624498196699544
+3.txt,"Fact To File put in a bold display to win the Ryanair Chase at the Cheltenham Festival.
+
+The 6-4 favourite, ridden by Mark Walsh for trainer Willie Mullins and owner JP McManus, comfortably saw off his eight rivals.
+
+Once favourite for Friday's Gold Cup, Fact To File was instead sent to the shorter Ryanair and won by nine lengths from Heart Wood, with Envoi Allen in third.
+
+""That was brilliant. That sort of distance suits him. He never missed a beat,"" said Walsh.
+
+""Even coming up the hill, he heard the crowd and pricked his ears - he had loads left.""
+",sport,sport,0.3648415489340599
+4.txt,"Australian Grand Prix
+
+Venue: Albert Park, Melbourne Dates: 14 March-16 March Race start: 04:00 GMT on Sunday, 16 March with first practice at 01:30 on Friday
+
+Coverage: Live radio commentary of practice and qualifying on BBC 5 Sports Extra, race live on BBC Radio 5 Live. Live text updates on the BBC Sport website and app
+
+Lewis Hamilton says he does not feel any pressure to prove himself as he starts his Ferrari career at the season-opening Australian Grand Prix.
+
+The seven-time champion left Mercedes after 12 seasons in which they became the most successful team-driver combination in Formula 1 history.
+
+The 40-year-old Briton won six of his drivers' titles between 2014 and 2020 but has won only two races since the start of the 2022 season.
+
+Hamilton said in Melbourne: ""I am under no assumptions it will be easy. I don't feel the pressure. The outside pressure is non-existent for me. The pressure is from within and what I want to achieve.
+
+""I am not here to prove anything to anybody. I have done it time and time again. I know what it takes to do a good job and that's what I want to deliver, for myself, and my family, for this team that I really believe deserve success.
+
+""They are so driven and maybe they have not had as much success as they would like and deserve. Just want to work towards and contribute to doing it.""
+",sport,sport,0.6845726764870006
+5.txt,"Guinness Six Nations 2025: France v Scotland
+
+When: Saturday, 15 March 2025 Kick-off: 20:00 GMT Venue: Stade de France, Paris
+
+Coverage: Listen live on BBC Radio 5 Live, BBC Radio Scotland Extra & BBC Sounds, live text coverage and highlights on BBC Sport app & website.
+
+Gregor Townsend says facing title-chasing France in the Six Nations in Paris on Saturday is ""probably the biggest challenge right now in world rugby"".
+
+The French put in a stunning display to thrash Ireland in round four as the Scots held off a late Wales fightback to secure a bonus-point win of their own at Murrayfield.
+
+That victory in Dublin has put France in the box seat, knowing any victory over the Scots at the Stade de France will see them win the championship.
+
+""I think when you put all the factors together, the French team at home are always a huge challenge,"" said Townsend.
+
+""The way they're playing, even in their defeat they scored a lot of points and could have scored a number more at Twickenham.
+
+""They're playing a game of rugby that's really producing points and scores. They're physical, they're bringing a fresh pack on at some stage in the second half and they're going for the title.
+
+""It's a great game to go up against one of the best teams in the world at home.""
+",sport,sport,0.858344202510234
+1.txt,"Parents who are worried about their children being on Roblox should not let them use it, the chief executive of the gigantic gaming platform has said.
+The site, which is the most popular in the UK among young gamers aged eight to 12, has been dogged by claims of some children being exposed to explicit or harmful content through its games, alongside multiple reported allegations of bullying and grooming.
+But its co-founder and CEO Dave Baszucki insisted that the company is vigilant in protecting its users and pointed out that ""tens of millions"" of people have ""amazing experiences"" on the site.
+When asked what his message is to parents who don't want their children on the platform, Mr Baszucki said: ""My first message would be, if you're not comfortable, don't let your kids be on Roblox.""
+""That sounds a little counter-intuitive, but I would always trust parents to make their own decisions,"" he told BBC News in an exclusive interview.
+Responding to the interview, Mumsnet boss Justine Roberts said parents on the forum had spoken of how they struggled to manage their children's use of Roblox.
+""There are parental controls, and our users would urge constant parental supervision,"" she told the BBC.
+""But we all know that with the best will in the world life sometimes gets in the way.
+""If you've got multiple children you're looking after and things happen, and you probably can't 24/7 watch everything they're doing, even if you've got all your parental controls set.""
+Ellie Gibson - from the Scummy Mummies podcast - said Mr Baszucki's message risked sounding ""a bit of a get out"".
+""It's much easier said than done, especially when all their friends are playing it,"" she told the BBC.
+Gaming giant
+US-based Roblox is one of the world's largest games platforms, with more monthly users than Nintendo Switch and Sony PlayStation combined. In 2024 it averaged more than 80 million players per day â roughly 40% of them below the age of 13. Its vast empire includes some 40 million user-generated games and experiences.
+In the UK the Online Safety Act, which comes in to force in April, has strict laws for all tech firms specifically aimed at protecting children from online harms.
+But Mr Baszucki says he remains confident in Roblox's safety tools and insists the firm goes above and beyond to keep its users safe.
+",tech,tech,0.6406527244240507
+2.txt,"Saudi Arabia's Public Investment Fund (PIF) will pay $3.5bn (Â£2.7bn) to buy the gaming division of developer Niantic, whose titles include the hit mobile game PokÃ©mon Go.
+The game involves players walking around in the real world to hunt the collectable creatures, which appear on their phone screens using augmented reality.
+Despite launching almost a decade ago, PokÃ©mon Go is still amongst the highest-grossing mobile games in the world, with 30 million monthly players.
+The deal marks the latest step by Saudi Arabia to develop its gaming industry, which it has spent billions of pounds on in recent years.
+Niantic's other games, such as Monster Hunter Now and Pikmin Bloom, are also included in the acquisition, along with the people employed to make them.
+They will become part of Scopely Inc - which itself was bought by PIF subsidiary Savvy Games Group for $4.9bn in 2023.
+Scopely is one of the biggest names in mobile gaming, with its most successful title, Monopoly Go, being downloaded more than 50 million times and generating more than $3bn in revenue.
+PokÃ©mon itself is jointly owned by Nintendo, Game Freak and Creatures, which licensed the brand to Niantic so it could develop the game.
+Ed Wu, who leads the PokÃ©mon Go team at Niantic, said in a blog post he believed the move was ""a positive step"" for the game's future.
+""PokÃ©mon Go is more than just a game to me, it's my life's work,"" he said.
+""I won't say that PokÃ©mon Go will remain the same, because it has always been a work in progress.
+""But how we create and evolve it will remain unchanged, and I hope that we can make the experience even better.""
+Saudi Arabia is becoming an increasingly powerful player in gaming.
+Its PIF has stakes in some of the biggest publishers in the industry, such as Nintendo, Electronic Arts and Take-Two Interactive.
+It has also made waves in the eSports industry, with Saudi Arabia hosting major tournaments including last year's eSports World Cup, which had a prize pool of over $60m.
+Riyadh will also host 2027's planned Olympic eSports Games.
+Saudi Arabia's PIF has hundreds of billions in assets due to its oil wealth, which it has been investing heavily in sports such as golf, boxing and football, including a purchase of Newcastle United in a Â£300m deal in 2021.
+It is controlled by the country's prince Mohammed bin Salman, whose government has been accused of human rights violations.
+A 2019 UN report stated that ""the state of the Kingdom of Saudi Arabia is responsible"" for the death of Jamal Khashoggi, a journalist who was critical of the country's government.
+Saudi Arabia has always denied this.
+",tech,tech,0.36394802109347546
+3.txt,"A Nasa-SpaceX mission that aimed to clear the way for two ""stranded"" astronauts to get back to Earth has been postponed.
+The Falcon 9 launch from Florida's Cape Canaveral Space Force Station was put back due to a hydraulic ground issue. The next possible launch opportunity is on Friday evening.
+The rocket aimed to fly four new crew members to the International Space Station (ISS) and pave the way for the return of Suni Williams and Butch Wilmore.
+The two Nasa astronauts flew to space in June but were not able to return on a Boeing spacecraft after it was deemed unsafe. The pair should be able to return to Earth within days of the SpaceX mission reaching the ISS.
+The Nasa astronauts left earth on 5 June 2024 for an eight-day mission and have been stuck at the ISS for more than nine months, instead helping ongoing missions at the station with maintenance and experiments.
+The Wednesday launch would have made it possible for them to return to Earth as early as Sunday.
+SpaceX said the issue that forced the launch to scrub related to the hydraulics on one of the clamp arms, which engineers were trying to fix. There were concerns the arm would not have been able to open fully during launch.
+The company said the next launch window would be at 1903 Eastern Time (2303GMT) on Friday.
+",tech,business,0.2506379199206088
+4.txt,"Deena Ghazarian had only been in business for a year when the trade policies of President Donald Trump's first term of office sent her company into a tailspin.
+It was 2019 and her California-based firm, Austere, had just agreed to supply several big US retailers with its high-end audio and video accessories that are largely manufactured in China.
+Then Trump imposed sweeping tariffs on China, and overnight Deena found herself paying a 25% surcharge on every cable and component she imported â up from zero previously.
+She was forced to absorb the costs and for a while thought she would go bust.
+""I literally thought I am going to start and end a business in less than a year,"" she says. ""I had spent all this time, money and effort, and to have something like this blindside you was shocking.""
+The firm pulled through, but like numerous other US businesses it now finds itself in a strikingly similar situation.
+Since returning to office in January, Mr Trump has raised tariffs on all goods imported from China by 20%, and put taxes of 25% on Canadian and Mexican products, only to delay some of them until April.
+The president says he wants to force these countries to do more to stop flows of illegal drugs and migrants into America, to bring more manufacturing back to the US, and to address what he sees as unfair trade imbalances.
+But the duties are much broader in scope than last time, when they were phased in gradually and many products were granted exemptions.
+Goods like smartphones, desktop computers and tablets are now incurring tariffs for the first time, while taxes on others have climbed higher.
+""US importers have to pay these taxes not the exporters,"" says Ed Brzytwa, vice president of international trade at the Consumer Technology Association (CTA), a North American trade body that represents more than 1,200 tech firms.
+""It's American businesses and consumers who will suffer.""
+Businesses like Ms Ghazarian's are particularly exposed. China is still the number one supplier of electronic products to the US, with imports totalling $146bn (Â£112bn) in 2023, according to official data.
+
+Meanwhile, 87% of US video game console imports came from China that year, 78% of smartphones, 79% of laptops and tablets, and two-thirds of monitors, says the CTA.
+",tech,business,0.5442327992924826
+5.txt,"A two-day gaming event featuring consoles developed by independent firms from across Yorkshire is taking place in Wakefield this weekend.
+The WX Games Weekend offers gaming fans a chance to play on a range of modern and retro games consoles as well as to attend workshops for those keen to work in the industry.
+It is taking place at the Wakefield Exchange, which opened at the former market hall on Union Street in February.
+Hannah Appleyard, Wakefield Council's cabinet member for culture, leisure and sport, said the event would be ""highlighting the many opportunities there are in the city and region to work in games and the creative industries"".
+The free event has been organised by Wakefield Council working alongside Game Republic, which is a northern-based games industry network.
+Jamie Sefton, managing director of Game Republic, said the event was suitable for all ages, ""whether you want a job in games or would just like to play games for the weekend from retro classics to VR games"".
+He said that over 40 independent games companies based across Yorkshire and the north of England would be showcasing their new games at the event ahead of their official release.
+Organisers said the event would also feature e-sports challenges, talks from people in the gaming industry and skills support from Wakefield College.
+Topics covered at the free workshops include how to design games and designing a gaming character.
+The WX Exchange has previously hosted Game Republic's GaMaYo event for gaming developers based in Yorkshire and the north of England.
+
+",tech,tech,0.5281023062805293
