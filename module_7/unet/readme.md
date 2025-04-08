@@ -29,6 +29,6 @@
 
 ## Для  образца
 
-![[Входная]https://github.com/drandule/DataScience/blob/main/module_7/unet/test/00000.png
+![[Входная](https://github.com/drandule/DataScience/blob/main/module_7/unet/test/00000.png)
 
-![[предсказание]https://github.com/drandule/DataScience/blob/main/module_7/unet/prediction/00000.png
+![[предсказание](https://github.com/drandule/DataScience/blob/main/module_7/unet/prediction/00000.png)
