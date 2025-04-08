@@ -26,3 +26,9 @@
 **Среднее значение IoU (Mean IoU):** `0.4904`
 
 ![Loss проекта](https://github.com/drandule/DataScience/blob/main/module_7/unet/loss_plot3.png)
+
+## Для  образца
+
+![[Входная]https://github.com/drandule/DataScience/blob/main/module_7/unet/test/00000.png
+
+![[предсказание]https://github.com/drandule/DataScience/blob/main/module_7/unet/prediction/00000.png
